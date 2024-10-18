@@ -6,4 +6,3 @@ To run:
 - Download diamond_kata.py
 - Execute command "python3 diamond_kata.py"
 - When prompted provide the desired letter for the widest point
-- 
